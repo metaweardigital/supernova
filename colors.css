@@ -1,0 +1,22 @@
+
+:root {
+    --colorShadesBlack: #000000;    
+    --colorShadesWoodsmoke: #0d0d0d;    
+    --colorShadesEerieBlack: #191919;    
+    --colorShadesNero: #252525;    
+    --colorShadesMineshaft: #323232;    
+    --colorShadesStack: #8b8b8b;    
+    --colorShadesIron: #cbcbcb;    
+    --colorShadesSeashell: #f1f1f1;    
+    --colorShadesWhite: #ffffff;    
+    /* Links */
+    --colorSecondaryBrilliantAzure: #3c95ff;    
+    /* Red & Warning */
+    --colorSecondaryLust: #eb191a;    
+    /* Online & Go */
+    --colorSecondaryMalachite: #19eb6d;    
+    --colorTransparentWhite50_: #ffffff80;    
+    --colorTransparentWhite5_: #ffffff0d;    
+    --colorTransparentBlack50_: #00000080;    
+    --colorTransparentBlack5_: #0000000d;    
+}
